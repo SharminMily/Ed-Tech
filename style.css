@@ -1,0 +1,8 @@
+body{
+     font-family: 'Laila', sans-serif;
+}
+  /* background-image: url("IMAGE_URL"), linear-gradient(#2e2a2d, #0a0303);  */
+  .carousel-item, .second img{
+    /* height: 500px; */
+   
+  }
